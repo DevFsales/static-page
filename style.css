@@ -1,0 +1,146 @@
+ body {
+     background-color: rgb(231, 229, 229);
+     font-family: sans-serif;
+     margin:0;
+    
+
+ }
+  
+.topo{
+      background-color: rgb(30, 33, 39);
+      height: 55px;
+      width: 1025px;
+      margin-left: 150px; 
+      margin-right: 50px;  
+      box-sizing: border-box;
+      border:solid 1px rgb(102, 101, 114);
+           
+}
+.topo img {
+      margin-left: 20px;
+      border: solid 2px rgb(70, 70, 78);
+}
+ 
+.header-nav ul li {
+       display: inline-block;
+       text-align: center;
+       list-style-type: none;
+       padding-left: 25px;
+       
+} 
+
+.header-nav a {
+      color: rgb(117, 115, 146);
+      text-decoration: none;
+      font-family:sans-serif;
+      font-size: 15px;
+      text-shadow: 2px 2px 2px #3d3b3b; 
+      text-transform: uppercase;     
+}
+.header-nav {
+       position: relative;
+       left: 650px;
+       bottom:60px;  
+} 
+img {
+      position: relative;
+      left: 150px;
+      
+}
+.Portfolio { 
+           font-family: sans-serif;
+           font-size:20px; 
+           width:900px; 
+           text-align: center; 
+           padding-left: 220px;
+              
+}
+.Portfolio h1 {
+       color: rgb(0, 0, 0);
+       font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+       text-shadow: 2px 3px 3px #1f1f1f;
+}
+
+
+
+.galery {
+        color: #555;
+        padding: 0 0px 0px 10px;
+        overflow: auto;
+}
+
+.galery-card{  
+         width:25%;
+         float:left;
+         text-align: center;
+        
+       
+}
+
+.gallery-title { 
+      color: #000000;   
+      font-size: 20px;
+      text-transform: uppercase;
+      text-shadow: 3px 3px 5px #3a3939;
+      letter-spacing:4px;
+      margin-left: 250px;
+    
+      }
+.gallery-text {
+       color: #3a3939;
+       font-size: 15px;
+       margin-left: 250px;
+      
+       
+}
+.about h2{ 
+      color: rgb(0, 0, 0);
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+      text-shadow: 2px 3px 3px #1f1f1f;
+      font-size: 40px;
+       
+}
+.about {
+      font-family: sans-serif;
+      font-size:20px; 
+      width:900px; 
+      text-align: center; 
+      padding-left: 220px;
+      
+}
+
+#contact {
+      color: #000000;   
+      font-size: 20px;
+      text-transform: uppercase;
+      text-shadow: 3px 3px 5px #3a3939;
+      letter-spacing:4px;
+      margin-left: 500px;
+      
+}
+#contact address{
+      color: #000000;   
+      font-size: 20px;
+      text-transform: uppercase;
+      font-style: normal;
+      font-weight: bold;
+}
+.maps {
+       width:100%;
+       height: 450px;
+       margin-top: 30px;
+       margin-left: 350px;
+
+}
+.rodape {
+       background: #1f1f1f;
+       text-align: center;
+       border: solid 2px rgb(59, 56, 56);
+       padding: 25px;
+       color: black;
+       font-size: 12px;
+       letter-spacing: 5px;
+       margin-top: 25px;
+       margin-left: 150px;
+      margin-right: 150px;
+}
