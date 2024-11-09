@@ -35,13 +35,18 @@
       font-family:sans-serif;
       font-size: 15px;
       text-shadow: 2px 2px 2px #3d3b3b; 
-      text-transform: uppercase;     
+      text-transform: uppercase;  
+      transition: color .3s linear;   
+}
+.header-nav a:hover {
+           color:white;
 }
 .header-nav {
        position: relative;
        left: 650px;
        bottom:60px;  
 } 
+
 img {
       position: relative;
       left: 150px;
